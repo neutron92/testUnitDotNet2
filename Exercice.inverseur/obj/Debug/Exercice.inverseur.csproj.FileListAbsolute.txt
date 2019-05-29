@@ -1,0 +1,6 @@
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur\bin\Debug\Exercice.inverseur.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur\bin\Debug\Exercice.inverseur.pdb
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur\obj\Debug\Exercice.inverseur.csproj.CoreCompileInputs.cache
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur\obj\Debug\Exercice.inverseur.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur\obj\Debug\Exercice.inverseur.pdb
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur\obj\Debug\Exercice.inverseur.csprojAssemblyReference.cache

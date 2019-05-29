@@ -1,0 +1,16 @@
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Exercice.inverseur.test.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Exercice.inverseur.test.pdb
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Exercice.inverseur.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Exercice.inverseur.pdb
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\obj\Debug\Exercice.inverseur.test.csprojAssemblyReference.cache
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\obj\Debug\Exercice.inverseur.test.csproj.CoreCompileInputs.cache
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\obj\Debug\Exercice.inverseur.test.csproj.CopyComplete
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\obj\Debug\Exercice.inverseur.test.dll
+C:\Users\hiche\source\repos\Exercice.inverseur\Exercice.inverseur.test\obj\Debug\Exercice.inverseur.test.pdb
